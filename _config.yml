@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "jeronimo Dl"
 facebook:
   username               : "jeronimo Dl"
   app_id                 :
@@ -109,6 +109,8 @@ author:
   bio              : "Estudiante ITAM"
   location         : "Mexico, CDMX"
   email            : "jeronimo.deli@gmail.com"
+  github           : "Jero110"
+  instagram        : "Jero_dl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
