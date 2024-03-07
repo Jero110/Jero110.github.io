@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "GitHub"
-    url: https://github.com/Jero110?tab=repositories
+  - title: "Presentación"
+    url: https://docs.google.com/presentation/d/11OpxStEKoxrbkvhmQCEozZSimJ6YsKdU6DfvfbwthBg/edit#slide=id.g2c087deaa95_1_14
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
