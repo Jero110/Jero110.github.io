@@ -16,7 +16,8 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "Portafolio Jeronimo Deli Larios"
+title: '"Are you really sure that a floor can´t also be a ceiling?" - M. C. Escher'
+
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jeronimo Deli Larios"
@@ -58,7 +59,7 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-  hide:  true
+  hide: true
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia, google
