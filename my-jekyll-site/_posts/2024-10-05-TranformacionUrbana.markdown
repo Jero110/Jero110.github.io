@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transformación Urbana: Big Data y Tecnologías Avanzadas en la Gestión del Tráfico"
+title:  "Transformación Urbana"
 date:   2024-10-05 13:57:01 -0600
 ---
 
