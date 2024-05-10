@@ -3,6 +3,7 @@ layout: post
 title:  "El Deli"
 date:   2024-02-14 03:51:09 -0600
 ---
+
 Hey, soy Jero Deli, un estudiante en el ITAM y quería compartir con ustedes algunas de mis pasiones. Me encanta la bicicleta de montaña, el kayak y, sobre todo, la escalada en roca. Estos deportes no solo me mantienen activo, sino que también me permiten explorar lugares increíbles, conectarme con la naturaleza y experimentar esa emoción única que viene con la adrenalina.
 
 Viajar y conocer nuevos lugares es algo que me inspira mucho. Creo que salir de la ciudad de México y sumergirme en entornos naturales es una de las mejores maneras de recargar energías y desconectar del ajetreo de la ciudad.
