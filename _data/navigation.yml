@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Presentación"
-    url: https://www.canva.com/design/DAGDu5CskFM/hKggY2oO6xABaZ75WxAh3A/edit?utm_content=DAGDu5CskFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Guthub"
+    url: https://github.com/Jero110?tab=repositories
+  - title: "Leetcode"
+    url: https://leetcode.com/u/iledorej/
+  
+  #- title: "Sample Posts"
+   # url: /year-archive/
+    #url: /collection-archive/
+  #- title: "Sample Collections"
+   # url: /sitemap/
+  #- title: "Sitemap"
+  
