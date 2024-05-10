@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transformación Urbana"
-date:   2024-10-05 13:57:01 -0600
+date:   2024-02-14 03:51:09 -0600
 ---
 
 **Transformación Urbana: Big Data y Tecnologías Avanzadas en la Gestión del Tráfico**
@@ -13,7 +13,6 @@ Imaginemos nuestras ciudades como gigantescas ciudades virtuales, donde los dato
 En los últimos años, hemos sido testigos de una evolución notable en el campo del Big Data, especialmente con la integración de plataformas como Kafka. Esta herramienta, diseñada para procesar eficientemente grandes volúmenes de datos, se ha convertido en un componente esencial en la arquitectura de Big Data, permitiendo el desarrollo de modelos altamente optimizados para predecir el tráfico. 
 
 Las tecnologías de monitoreo urbano desempeñan un papel crucial en la gestión del tráfico, capturando datos a través de sistemas de circuito cerrado de televisión (CCTV) que luego son analizados mediante técnicas de procesamiento digital para detectar patrones y prevenir congestiones. En este contexto, las redes neuronales convolucionales (CNN) se destacan como herramientas poderosas para procesar datos visuales, como imágenes de tráfico, imitando el proceso de reconocimiento visual humano para identificar patrones complejos y mejorar la gestión del tráfico. 
-
 
 Una red neuronal convolucional se compone de varias capas clave: la convolución, el agrupamiento (pooling), la capa conectada y la capa de salida. En la etapa de convolución, se aplican filtros a la imagen de entrada para extraer características relevantes. Posteriormente, el agrupamiento reduce la dimensionalidad del mapa de características, preservando las características más importantes. Las capas completamente conectadas se encargan de aprender representaciones más abstractas de las características extraídas, mientras que la capa de salida produce las predicciones finales del modelo. Esta arquitectura ha demostrado ser altamente eficaz en tareas de visión por computadora como reconocimiento de objetos y clasificación de imágenes. 
 
