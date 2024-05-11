@@ -19,7 +19,7 @@ locale: "en-US"
 title: "J.D.L"
 
 title_separator: "-"
-subtitle: '"Are you really sure that a floor can´t also be a ceiling?" - M. C. Escher'
+subtitle: #'"Are you really sure that a floor can´t also be a ceiling?" - M. C. Escher'
 name: "Jeronimo Deli Larios"
 description: "Lo más hermoso que veras en tu vida"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
