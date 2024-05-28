@@ -1,7 +1,22 @@
 ---
 layout: archive
 ---
+
+<style>
+  .taxonomy__index {
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  .taxonomy__section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+</style>
+
 {{ content }}
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
