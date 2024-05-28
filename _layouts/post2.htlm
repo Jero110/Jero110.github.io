@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% assign header = page.header | default: site.header %}
+{% if header.overlay_image %}
+  {% include page__header-overlay-image.html %}
+{% endif %}
+
+<style>
+  .post-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: justify;
+  }
+  .post-title {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+  }
+  .post-excerpt {
+    text-align: center;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
+</style>
+
+<div class="post-content">
+  <div class="post-title">{{ page.title }}</div>
+  {% if page.excerpt %}
+    <div class="post-excerpt">{{ page.excerpt }}</div>
+  {% endif %}
+  {{ content }}
+</div>
