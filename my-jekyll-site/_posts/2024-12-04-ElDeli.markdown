@@ -2,7 +2,9 @@
 layout: post
 title: "El Deli"
 date: 2024-02-14 03:51:09 -0600
+description: neta la mejor persona que vas a conocer
 ---
+<p>{{ page.description }}</p>
 <style>
   .post-content {
     max-width: 900px;
