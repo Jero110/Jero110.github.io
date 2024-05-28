@@ -18,6 +18,10 @@ excerpt: "Explora cómo la inteligencia artificial y el Big Data están transfor
     font-size: 2em;
     margin-top: 20px;
   }
+  .post-excerpt {
+    text-align: center;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
 </style>
 
 <div class="post-content">
