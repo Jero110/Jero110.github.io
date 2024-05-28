@@ -16,6 +16,10 @@ excerpt: La mejor persona que vas a conocer
     font-size: 2em;
     margin-top: 20px;
   }
+  .post-excerpt {
+    text-align: center;
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
 </style>
 <div class="post-content">
   <div class="post-title">Jero Deli</div>
