@@ -6,6 +6,7 @@ header:
   teaser: "itam.jpg"
 description: "Explora cómo la inteligencia artificial y el Big Data están transformando la gestión del tráfico urbano y mejorando la calidad de vida en las ciudades."
 ---
+<p>{{ page.description }}</p>
 <style>
   .post-content {
     max-width: 900px;
