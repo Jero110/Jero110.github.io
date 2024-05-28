@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Jero Deli"
 date: 2024-02-14 03:51:09 -0600
 excerpt: La mejor persona que vas a conocer
