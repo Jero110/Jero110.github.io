@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "IA y la Transformación Urbana"
 date:   2024-02-14 03:51:09 -0600
 header:
