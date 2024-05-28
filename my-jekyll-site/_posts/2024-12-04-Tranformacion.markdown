@@ -7,9 +7,10 @@ header:
 ---
 <style>
   .post-content {
-    max-width: 900px; /* Increased width from 800px to 900px */
+    max-width: 900px;
     margin: 0 auto;
     padding: 0 20px;
+    text-align: justify;
   }
 </style>
 
@@ -29,12 +30,6 @@ header:
     <p>Sin embargo, la implementación de sistemas inteligentes de gestión de tráfico enfrenta desafíos significativos, incluyendo preocupaciones sobre la privacidad de los datos y la seguridad cibernética. Es crucial abordar estas preocupaciones de manera proactiva para garantizar el éxito a largo plazo de estos sistemas y maximizar sus beneficios para las comunidades urbanas.</p>
 
     <p>La aplicación de Big Data y tecnologías avanzadas en la gestión del tráfico representa un avance significativo hacia ciudades más inteligentes y eficientes. Al aprovechar la información en tiempo real y el análisis predictivo, estos sistemas tienen el potencial de mejorar significativamente la movilidad urbana y la calidad de vida de los ciudadanos. Con una gestión cuidadosa de los desafíos técnicos y éticos, podemos construir entornos urbanos más habitables y sostenibles para las generaciones futuras. La integración de estas tecnologías en la infraestructura urbana no solo mejora la eficiencia del transporte, sino que también contribuye a la reducción de emisiones contaminantes y al desarrollo de comunidades más conectadas y resilientes. La clave reside en aprovechar el flujo de datos como un recurso valioso y gestionarlo de manera ética y eficiente para el beneficio de todos.</p>
-
-    <p><strong>Bibliografía:</strong></p>
-
-    <p>Palla, T. (2022, enero 6). INTELLIGENT TRAFFIC MANAGEMENT USING BIG DATA ANALYTICS AND IOT. Medium. https://tharun-palla43.medium.com/intelligent-traffic-management-using-big-data-analytics-and-iot-a5e841f2cf7d</p>
-    <p>Qué son las redes neuronales? | IBM. (s. f.). https://www.ibm.com/mx-es/topics/neural-networks</p>
-</div>
 
     <p><strong>Bibliografía:</strong></p>
 
