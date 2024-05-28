@@ -4,7 +4,7 @@ title:  "IA y la Transformación Urbana"
 date:   2024-02-14 03:51:09 -0600
 header:
   teaser: "itam.jpg"
-excerpt Explora cómo la inteligencia artificial y el Big Data están transformando la gestión del tráfico urbano y mejorando la calidad de vida en las ciudades
+excerpt: "Explora cómo la inteligencia artificial y el Big Data están transformando la gestión del tráfico urbano y mejorando la calidad de vida en las ciudades."
 ---
 <style>
   .post-content {
