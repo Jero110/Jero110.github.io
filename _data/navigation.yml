@@ -1,12 +1,15 @@
 # main links
 main:
-  - title: "GitHub"
+  - title: "Github"
     url: https://github.com/Jero110?tab=repositories
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Leetcode"
+    url: https://leetcode.com/u/iledorej/
+  - title: "CV"
+    url: https://jero110.github.io/my-jekyll-site/ElDeli/
+
+  #- title: "Sample Posts"
+  # url: /year-archive/
+  #url: /collection-archive/
+  #- title: "Sample Collections"
+  # url: /sitemap/
+  #- title: "Sitemap"
