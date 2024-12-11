@@ -4,8 +4,10 @@ main:
     url: https://github.com/Jero110?tab=repositories
   - title: "Leetcode"
     url: https://leetcode.com/u/iledorej/
-  - title: "CV"
+  - title: "Un pcoo de mi"
     url: https://jero110.github.io/my-jekyll-site/ElDeli/
+  - title: "CV"
+    url: https://jero110.github.io/my-jekyll-site/Resume.pdf
 
   #- title: "Sample Posts"
   # url: /year-archive/
